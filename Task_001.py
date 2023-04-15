@@ -22,3 +22,4 @@ if __name__ == '__main__':
         print(result2)
     except ValueError as e:
         print(e)  # должен вывести: "Длины массивов не равны!"
+
